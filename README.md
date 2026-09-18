@@ -10,7 +10,10 @@ Permettre aux coureurs inscrits à une même course de se trouver, d'échanger e
 
 ## ⚙️ Fonctionnalités
 
+- Liste et création de courses
+- Recherche de courses par nom
 - Mise en relation de coureurs préparant la même course
+- Système de chat
 - Gestion des profils utilisateurs et de leurs courses
 - Interface web interactive
 
