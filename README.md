@@ -2,7 +2,7 @@
 
 **RaceBuddy** est une application web de mise en relation de coureurs souhaitant préparer ensemble une même course.
 
-Projet développé dans le cadre d'une formation développeur web full-stack, en équipe.
+Projet développé dans le cadre de la formation AI Software Development [Le Wagon](https://www.lewagon.com), en équipe de 4.
 
 ## 🎯 Objectif
 
