@@ -41,8 +41,8 @@ Projet réalisé en équipe, dans une logique agile, avec répartition des tâch
 ## 🚀 Installation
 
 ```bash
-git clone <url-du-depot>
-cd racebuddy
+git clone git@github.com:LaurieL-web/RaceBuddy.git
+cd RaceBuddy
 bundle install
 rails db:create db:migrate
 rails server
