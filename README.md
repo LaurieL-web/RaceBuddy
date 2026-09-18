@@ -22,7 +22,7 @@ Permettre aux coureurs inscrits à une même course de se trouver, d'échanger e
 | Catégorie | Technologies |
 |---|---|
 | Back-end | Ruby on Rails |
-| Front-end | JavaScript, HTML, CSS, Bootstrap, Turbo |
+| Front-end | JavaScript, HTML, CSS, SCSS Bootstrap, Turbo |
 | Base de données | PostgreSQL |
 | ORM | Active Record |
 | Outils | Git / GitHub |
