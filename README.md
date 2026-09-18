@@ -34,7 +34,8 @@ Projet réalisé en équipe, dans une logique agile, avec répartition des tâch
 ## 💡 Mon rôle
 
 - Conception et développement de l'application
-- Développement de fonctionnalités et intégration des différentes parties de l'application
+- Ecriture des User Stories et des routes
+- Développement de fonctionnalités et intégration des différentes parties de l'application (show d'une course, toute la partie chat/messages, fonctionnalité de recherche, modales, ect)
 - Mise en pratique des technologies et méthodes vues pendant la formation
 
 ## 🚀 Installation
