@@ -1,42 +1,42 @@
 # 🏅 RaceBuddy
 
-**RaceBuddy** est une application web de mise en relation de coureurs souhaitant préparer ensemble une même course.
+**RaceBuddy** is a web application designed to connect runners who are preparing for the same race.
 
-Projet développé dans le cadre de la formation AI Software Development [Le Wagon](https://www.lewagon.com), en équipe de 4.
+Developed as part of the AI Software Development training program at [Le Wagon](https://www.lewagon.com), in a team of 4.
 
-## 🎯 Objectif
+## 🎯 Goal
 
-Permettre aux coureurs inscrits à une même course de se trouver, d'échanger et de préparer leur entraînement ensemble, pour rester motivés et progresser à plusieurs.
+Enable runners registered for the same race to find each other, connect and prepare their training together, helping them stay motivated and improve as a group.
 
-## ⚙️ Fonctionnalités
+## ⚙️ Features
 
-- Liste et création de courses
-- Recherche de courses par nom
-- Mise en relation de coureurs préparant la même course
-- Système de chat
-- Gestion des profils utilisateurs et de leurs courses
-- Interface web interactive
+* Race listing and creation
+* Race search by name
+* Matching runners preparing for the same race
+* Chat system
+* User profile and race management
+* Interactive web interface
 
-## 🛠️ Stack technique
+## 🛠️ Tech Stack
 
-| Catégorie | Technologies |
-|---|---|
-| Back-end | Ruby on Rails |
-| Front-end | JavaScript, HTML, CSS, SCSS Bootstrap, Turbo |
-| Base de données | PostgreSQL |
-| ORM | Active Record |
-| Outils | Git / GitHub |
+| Category  | Technologies                                  |
+| --------- | --------------------------------------------- |
+| Back-end  | Ruby on Rails                                 |
+| Front-end | JavaScript, HTML, CSS, SCSS, Bootstrap, Turbo |
+| Database  | PostgreSQL                                    |
+| ORM       | Active Record                                 |
+| Tools     | Git / GitHub                                  |
 
-## 👥 Équipe
+## 👥 Team
 
-Projet réalisé en équipe, dans une logique agile, avec répartition des tâches entre back-end, front-end et intégration des fonctionnalités.
+Developed as part of a team using an agile methodology, with tasks divided across back-end, front-end and feature integration.
 
-## 💡 Mon rôle
+## 💡 My Role
 
-- Conception et développement de l'application
-- Ecriture des User Stories et des routes
-- Développement de fonctionnalités et intégration des différentes parties de l'application (show d'une course, toute la partie chat/messages, fonctionnalité de recherche, modales, ect)
-- Mise en pratique des technologies et méthodes vues pendant la formation
+* Application design and development
+* Writing User Stories and defining routes
+* Development of features and integration of different parts of the application, including the race show page, the entire chat/messaging system, search functionality and modals
+* Applying the technologies and development practices learned during the training
 
 ## 🚀 Installation
 
@@ -48,8 +48,8 @@ rails db:create db:migrate
 rails server
 ```
 
-L'application est ensuite accessible sur `http://localhost:3000`.
+The application is then available at `http://localhost:3000`.
 
-## 📌 Statut
+## 📌 Status
 
-Projet de formation — développé à des fins pédagogiques.
+Training project — developed for educational purposes.
