@@ -2,7 +2,7 @@
 
 **RaceBuddy** is a web application designed to connect runners who are preparing for the same race.
 
-Developed as part of the AI Software Development training program at [Le Wagon](https://www.lewagon.com), in a team of 4.
+Developed in just two weeks as part of a 4-person team during the AI Software Development Bootcamp at [Le Wagon](https://www.lewagon.com).
 
 ## 🎯 Goal
 
