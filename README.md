@@ -8,7 +8,7 @@ Developed in **just two weeks** as part of a 4-person team during the AI Softwar
 
 Enable runners registered for the same race to find each other, connect and prepare their training together, helping them stay motivated and improve as a group.
 
-## ⚙️ Features
+## ⚙️ Key Features
 
 * Race listing and creation
 * Race search by name
