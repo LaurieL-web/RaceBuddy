@@ -33,10 +33,15 @@ Developed as part of a team using an agile methodology, with tasks divided acros
 
 ## 💡 My Role
 
-* Application design and development
-* Writing User Stories and defining routes
-* Development of features and integration of different parts of the application, including the race show page, the entire chat/messaging system, search functionality and modals
-* Applying the technologies and development practices learned during the training
+- 💬 **Real-Time Chat System (Full-Stack):** Built the end-to-end messaging feature, including chat history, message CRUD operations, modal components, and live updates powered by Turbo Streams.
+
+- 🔍 **Buddy Recommendation Engine:** Developed backend logic and frontend components to match and display compatible running partners based on user profiles.
+
+- 🏃 **Race Search & Management:** Handled backend logic for searching and creating races, connecting user goals to specific events.
+
+- 🔐 **Authentication & Core Pages:** Implemented user authentication, home page backend, and UI components across key application views.
+
+- 🤝 **Git & Team Workflow:** Managed feature branches, PR reviews, and code integration within a collaborative team environment.
 
 ## 🚀 Installation
 
@@ -52,4 +57,4 @@ The application is then available at `http://localhost:3000`.
 
 ## 📌 Status
 
-Training project — developed for educational purposes.
+Final bootcamp project — built for educational and portfolio demonstration purposes.
